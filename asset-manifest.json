@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/atayap/tesdoctor.git/static/css/main.94b1f59c.css",
+    "main.js": "/atayap/tesdoctor.git/static/js/main.8c8c458e.js",
+    "index.html": "/atayap/tesdoctor.git/index.html",
+    "main.94b1f59c.css.map": "/atayap/tesdoctor.git/static/css/main.94b1f59c.css.map",
+    "main.8c8c458e.js.map": "/atayap/tesdoctor.git/static/js/main.8c8c458e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.94b1f59c.css",
+    "static/js/main.8c8c458e.js"
+  ]
+}
